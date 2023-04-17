@@ -19,7 +19,7 @@ Once the script has started, enter the option (number) you would like to use and
 ## Dependencies
 The [CyberGhost VPN CLI App](https://support.cyberghostvpn.com/hc/en-us/articles/360020436274-How-to-Set-Up-CyberGhost-VPN-CLI-App-on-Linux) will need to be installed for the script to work.
 
-## Feautures
+## Features
 At the time of writing this README, the currently supported features are:
 ```
 1) Quick connect
